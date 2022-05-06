@@ -1,5 +1,7 @@
-# BINARY CLASSIFICATION
-## Aim:
+### EX NO: 02
+### DATE : 01-04-2022
+# <P align="center"> BINARY CLASSIFICATION</p>
+## AIM:
 To write a python program to perform binary classification.
 
 ## Equipments Required:
